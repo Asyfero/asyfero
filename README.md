@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Adrien
 #### I am a young Java developer!
-![I am a young Java developer!](https://i.postimg.cc/MKddx6xK/Sans-titre.png)
 
 I like all technologies, my prefered language is Java.
 
