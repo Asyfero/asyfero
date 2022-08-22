@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Adrien
+#### I am a young Java developer!
+![I am a young Java developer!](https://i.postimg.cc/5tbQj1n6/Plz-Subscribe.png)
 
-<!--
-**Asyfero/asyfero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like all technologies, my prefered language is Java.
 
-Here are some ideas to get you started:
+Skills: **Java** - _Intermediate_ / **Html & Css** - _Basic_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **Send Me A Mail** 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Asyfero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/adri_lest/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Asyfero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/Asyfero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Asyfero0)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asyfero)](https://github.com/anuraghazra/github-readme-stats)
+
